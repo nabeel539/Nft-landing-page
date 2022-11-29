@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Nft-landing-page/static/css/main.048c8f6b.css",
+    "main.js": "/Nft-landing-page/static/js/main.931dc155.js",
+    "static/js/787.542b9c83.chunk.js": "/Nft-landing-page/static/js/787.542b9c83.chunk.js",
+    "static/media/brand-collabs.png": "/Nft-landing-page/static/media/brand-collabs.28cc262b99d4de9c0197.png",
+    "static/media/bookmark.png": "/Nft-landing-page/static/media/bookmark.436412e5252b077f2dc6.png",
+    "static/media/file.png": "/Nft-landing-page/static/media/file.b3b69e2c818fc2696a4a.png",
+    "static/media/wallets.png": "/Nft-landing-page/static/media/wallets.bd7cfca20c777edf6806.png",
+    "index.html": "/Nft-landing-page/index.html",
+    "main.048c8f6b.css.map": "/Nft-landing-page/static/css/main.048c8f6b.css.map",
+    "main.931dc155.js.map": "/Nft-landing-page/static/js/main.931dc155.js.map",
+    "787.542b9c83.chunk.js.map": "/Nft-landing-page/static/js/787.542b9c83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.048c8f6b.css",
+    "static/js/main.931dc155.js"
+  ]
+}
